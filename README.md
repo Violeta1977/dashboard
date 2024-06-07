@@ -10,7 +10,7 @@ _website design study project_
 
 ## 🌟 About
 
-This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+<p style=color:green>This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!<p>
 
 Site published at: https://github.com/Violeta1977/dashboard
 
